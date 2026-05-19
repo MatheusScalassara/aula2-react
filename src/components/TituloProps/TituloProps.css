@@ -1,0 +1,11 @@
+.paragrafo-props{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    justify-content: center;
+    display: flex;
+}
+
+h2{
+    justify-content: center;
+    display: flex;
+}
